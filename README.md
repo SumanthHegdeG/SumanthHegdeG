@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumanth Hegde G</h1>
-<h3 align="center">A passionate MERN Developer And Devops Engineer</h3>
+<h3 align="center"><b>A passionate MERN Developer And Devops Engineer</b></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanthhegdeg&label=Profile%20views&color=0e75b6&style=flat" alt="sumanthhegdeg" /> </p>
 
